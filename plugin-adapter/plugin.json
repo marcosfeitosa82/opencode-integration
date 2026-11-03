@@ -1,0 +1,8 @@
+{
+  "name": "habblaud-opencode-adapter",
+  "version": "0.1.0",
+  "scope": "opencode",
+  "description": "Adapta mensagens e permissões do Habblaud para OpenCode V2",
+  "main": "register.ts",
+  "hooks": ["PermissionRequest", "Message"]
+}
